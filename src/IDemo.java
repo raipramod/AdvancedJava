@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public interface IDemo {
+public interface IDemo {
+    public static void main(String[] args) {
+
+    }
 }
