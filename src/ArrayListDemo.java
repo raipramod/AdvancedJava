@@ -9,9 +9,10 @@ public class ArrayListDemo {
         myList.add(6);
         myList.add(9);
 
-        System.out.println(myList.get(2));
+ System.out.println(myList.get(2));
+System.out.println("===================");
 
-        System.out.println("===================");
+// hi
         System.out.println(myList);
 
     }
